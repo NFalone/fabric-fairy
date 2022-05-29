@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "fairy",
+  "version": "${version}",
+
+  "name": "fairy mod",
+  "description": "practice mode",
+  "authors": [
+    "fradaut"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "MIT",
+  "icon": "assets/fairy/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.fradaut.fairy.Main"
+    ]
+  },
+  "mixins": [
+    "fairy.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.6",
+    "fabric": "*",
+    "minecraft": "~1.18.2",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
