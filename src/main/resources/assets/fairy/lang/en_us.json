@@ -1,5 +1,7 @@
 {
   "item.fairy.test_item": "Test Item",
 
-  "block.fairy.test_block": "Test Block"
+  "block.fairy.test_block": "Test Block",
+
+  "itemGroup.fairy.fairy": "Fairy mod"
 }

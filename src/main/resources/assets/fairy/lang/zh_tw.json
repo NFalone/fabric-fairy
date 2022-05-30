@@ -1,5 +1,7 @@
 {
   "item.fairy.test_item": "測試物品",
 
-  "block.fairy.test_block": "測試方塊"
+  "block.fairy.test_block": "測試方塊",
+
+  "itemGroup.fairy.fairy": "Fairy模組"
 }
