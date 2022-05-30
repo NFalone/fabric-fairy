@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "fairy:block/test_block"}
+  }
+}

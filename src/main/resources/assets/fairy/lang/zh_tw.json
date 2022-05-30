@@ -1,3 +1,5 @@
 {
-  "item.fairy.test_item": "測試物品"
+  "item.fairy.test_item": "測試物品",
+
+  "block.fairy.test_block": "測試方塊"
 }

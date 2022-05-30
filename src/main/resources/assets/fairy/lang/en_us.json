@@ -1,3 +1,5 @@
 {
-  "item.fairy.test_item": "Test Item"
+  "item.fairy.test_item": "Test Item",
+
+  "block.fairy.test_block": "Test Block"
 }
