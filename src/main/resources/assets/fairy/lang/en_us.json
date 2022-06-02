@@ -1,7 +1,10 @@
 {
   "item.fairy.test_item": "Test Item",
+  "item.fairy.dowsing_rod": "Dowsing Rod",
 
   "block.fairy.test_block": "Test Block",
 
-  "itemGroup.fairy.fairy": "Fairy mod"
+  "itemGroup.fairy.fairy": "Fairy mod",
+
+  "item.fairy.dowsing_rod.no_valuables": "No valuable found."
 }
