@@ -9,5 +9,9 @@
 
   "itemGroup.fairy.fairy": "Fairy mod",
 
-  "item.fairy.dowsing_rod.no_valuables": "No valuable found."
+  "item.fairy.dowsing_rod.no_valuables": "No valuable found.",
+  "item.fairy.dowsing_rod.tooltip": "Press §eSHIFT§r for more information.",
+  "item.fairy.dowsing_rod.tooltip.shift": "Right click to find valuables.",
+
+  "tooltip.fairy.speedy_block": "Get speed effect when stand up the block."
 }

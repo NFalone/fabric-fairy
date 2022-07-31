@@ -9,5 +9,9 @@
 
   "itemGroup.fairy.fairy": "Fairy模組",
 
-  "item.fairy.dowsing_rod.no_valuables": "找不到有價值的礦"
+  "item.fairy.dowsing_rod.no_valuables": "找不到有價值的礦.",
+  "item.fairy.dowsing_rod.tooltip": "按下 §eSHIFT§r 獲取更多資訊.",
+  "item.fairy.dowsing_rod.tooltip.shift": "滑鼠右擊方塊以尋找礦物.",
+
+  "tooltip.fairy.speedy_block": "站在方塊上將擁有加速效果."
 }
